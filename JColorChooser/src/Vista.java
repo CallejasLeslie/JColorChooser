@@ -42,7 +42,7 @@ public class Vista extends JFrame implements ActionListener {
         label = new JLabel();
         label.setFont(new java.awt.Font("Bodoni MT Black", 0, 22));
         label.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        label.setText("selección de colores con JColorChooser"); 
+        label.setText("Selección de colores con JColorChooser"); 
         label.setBounds(40, 20, 450, 40);
 
         panel = new JPanel();
